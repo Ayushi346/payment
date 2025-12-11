@@ -5,13 +5,13 @@ A complete Payment Collection Application built with React Native (Expo) for the
 ## 📸 App Screenshots
 
 ### **Login Screen**
-![Login Screen](assets/screenshot1.png)
+![Login Screen](assets/screenshot1.jpg)
 
 ### **Payment Screen**
-![Payment Screen](assets/screenshot2.png)
+![Payment Screen](assets/screenshot2.jpg)
 
 ### **Payment History**
-![Payment History](assets/screenshot3.png)
+![Payment History](assets/screenshot3.jpg)
 
 ## Features
 
