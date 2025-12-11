@@ -2,6 +2,17 @@
 
 A complete Payment Collection Application built with React Native (Expo) for the frontend, Node.js + Express for the backend, and MySQL for the database.
 
+## 📸 App Screenshots
+
+### **Login Screen**
+![Login Screen](assets/screenshot1.png)
+
+### **Payment Screen**
+![Payment Screen](assets/screenshot2.png)
+
+### **Payment History**
+![Payment History](assets/screenshot3.png)
+
 ## Features
 
 - **Login Screen**: Authenticate using account number and mobile number
